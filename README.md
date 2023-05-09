@@ -1,7 +1,7 @@
 # Panduan Focal Board
-- [Definsi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/main/README.md#focal-board)
-- [Instalasi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/main/README.md#installasi-focal-board)
-- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/main/README.md#tampilan-dan-sedikit-review)
+- [Definsi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#focal-board)
+- [Instalasi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#installasi-focal-board)
+- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-dan-sedikit-review)
 
 
 
