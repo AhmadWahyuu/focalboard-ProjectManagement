@@ -1,3 +1,10 @@
+# Panduan Focal Board
+- [Definsi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/main/README.md#focal-board)
+- [Instalasi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/edit/main/README.md#installasi-focal-board)
+- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/edit/main/README.md#tampilan-dan-sedikit-review)
+
+
+
 # Focal Board
 Focalboard adalah alat manajemen proyek open source, multibahasa, self-host yang merupakan alternatif untuk Trello, Notion, dan Asana.
 
@@ -9,7 +16,9 @@ Desktop Pribadi : Aplikasi desktop macOS , Windows , atau Linux pengguna tunggal
 
 Server Pribadi : Server multi-pengguna mandiri untuk pengembangan dan penggunaan pribadi.
 
-# INSTALASI Focal Board
+
+
+# Installasi Focal Board
 
 Download Focal board di : [Focal Board Pages](https://www.focalboard.com/download/) atau download langsung di github : [Github Pages](https://github.com/mattermost/focalboard).
 
@@ -18,5 +27,38 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 - Kemudian Extraks File menggunakan extraksi file zip atau download sofware disini : [Winrar Pages](https://www.win-rar.com/predownload.html?&L=0).
 
 - Kemudian buka file Extraksi.
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/file-extract.png)
+> file extraksi
+- Kemudian install aplikasi dengan double klik Focalboard yang ber type aplikasi di file extraksi.
 
-- Kemudian install aplikasi dengan double klik Focalboard.exe di file extraski.
+
+
+# Tampilan dan Sedikit Review
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/tampilan-awal.png)
+
+> untuk tampilan awal jika anda menggunakan board kosong
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/template-focalboard.png)
+
+> untuk tampilan template dari Focal Board
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/membuat%20card.png)
+
+> membuat card baru untuk pengingat
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/add%20view.png)
+
+> menambahkan board view baru
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/view_table.png)
+
+> view table
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/view_calender.png)
+
+> view calender
+
+![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/galery_view.png)
+
+> view galery
