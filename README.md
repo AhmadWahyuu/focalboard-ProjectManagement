@@ -22,7 +22,7 @@ Server Pribadi : Server multi-pengguna mandiri untuk pengembangan dan penggunaan
 
 Download Focal board di : [Focal Board Pages](https://www.focalboard.com/download/) atau download langsung di github : [Github Pages](https://github.com/mattermost/focalboard).
 
-- Setelah Download Focal Board yang sesuai dengan Operasi Sitem yang disedia oleh Focal Board
+- Setelah Download Focal Board yang sesuai dengan Operasi Sitem yang disediakan oleh Focal Board
 
 - Kemudian Extraks File menggunakan extraksi file zip atau download sofware disini : [Winrar Pages](https://www.win-rar.com/predownload.html?&L=0).
 
