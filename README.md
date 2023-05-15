@@ -35,12 +35,20 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 
 # Tampilan Focal Board
 
+- [Tampilan Project Kosong](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-project-kosong)
+- [Template Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#fitur-menambahkan-template-board-di-focal-board)
+- [Membuat Card atau Tugas Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#membuat-card-atau-tugas-baru)
+- [Menambahkan Board View Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#add-board-view-baru)
+- [Tampilan Table View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-table-view)
+- [Tampilan Kalender View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-kalender-view)
+- [Tampilan Galeri View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-galeri-view)
+
 ## Tampilan Project Kosong
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/tampilan-awal.png)
 
 > untuk tampilan awal jika anda menggunakan board kosong
-- Terdapat fitur menambahkan board baru berada di pojok kiri bawah dan disamping tulisan board view ( v ).
+- Terdapat fitur menambahkan board baru berada di pojok kiri bawah dan disamping tulisan board view ( _v_ ).
 - Menambahkan Tugas Baru, yang berada di kanan yang berwarna biru.
 - Fitur Search jika tugas yang kita miliki sangat banyak.
 - Adapun fitur filter yang akan sangat membantu jika tugas anda sangat banyak yang memiliki kategori yang sama.  
@@ -58,17 +66,25 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 
 > membuat card baru untuk pengingat
 
+## Add Board View Baru
+
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/add%20view.png)
 
 > menambahkan board view baru
+
+## Tampilan Table View
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/view_table.png)
 
 > view table
 
+## Tampilan Kalender View
+
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/view_calender.png)
 
 > view calender
+
+## Tampilan Galeri View
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/galery_view.png)
 
