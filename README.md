@@ -1,7 +1,7 @@
 # Panduan Focal Board
 - [Definsi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#focal-board)
 - [Instalasi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#installasi-focal-board)
-- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-dan-sedikit-review)
+- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-focal-board)
 
 
 
@@ -33,15 +33,26 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 
 
 
-# Tampilan dan Sedikit Review
+# Tampilan Focal Board
+
+## Tampilan Project Kosong
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/tampilan-awal.png)
 
 > untuk tampilan awal jika anda menggunakan board kosong
+- Terdapat fitur menambahkan board baru berada di pojok kiri bawah dan disamping tulisan board view ( v ).
+- Menambahkan Tugas Baru, yang berada di kanan yang berwarna biru.
+- Fitur Search jika tugas yang kita miliki sangat banyak.
+- Adapun fitur filter yang akan sangat membantu jika tugas anda sangat banyak yang memiliki kategori yang sama.  
+
+## Fitur Menambahkan Template Board di Focal Board
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/template-focalboard.png)
 
 > untuk tampilan template dari Focal Board
+- Banyak Template yang bisa digunakan seperti Meeting Agenda, Sales Pipeline CRM, Personal Task, dan lain-lain.
+
+## Membuat Card atau Tugas Baru
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/membuat%20card.png)
 
