@@ -35,9 +35,9 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 
 # Tampilan Focal Board
 
-- [Tampilan Project Kosong](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-project-kosong)
-- [Template Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#fitur-menambahkan-template-board-di-focal-board)
-- [Membuat Card atau Tugas Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#membuat-card-atau-tugas-baru)
+- [Tampilan Project Kosong](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-project-kosong)
+- [Template Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#fitur-menambahkan-template-board-di-focal-board)
+- [Membuat Card atau Tugas Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#membuat-card-atau-tugas-baru)
 - [Menambahkan Board View Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#add-board-view-baru)
 - [Tampilan Table View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-table-view)
 - [Tampilan Kalender View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-kalender-view)
