@@ -1,7 +1,7 @@
 # Panduan Focal Board
-- [Definsi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#focal-board)
-- [Instalasi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#installasi-focal-board)
-- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-focal-board)
+- [Definsi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#focal-board)
+- [Instalasi Focal Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#installasi-focal-board)
+- [Tampilan dan Review](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-focal-board)
 
 
 
@@ -38,10 +38,10 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 - [Tampilan Project Kosong](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-project-kosong)
 - [Template Board](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#fitur-menambahkan-template-board-di-focal-board)
 - [Membuat Card atau Tugas Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#membuat-card-atau-tugas-baru)
-- [Menambahkan Board View Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#add-board-view-baru)
-- [Tampilan Table View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-table-view)
-- [Tampilan Kalender View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-kalender-view)
-- [Tampilan Galeri View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/main/README.md#tampilan-galeri-view)
+- [Menambahkan Board View Baru](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#add-board-view-baru)
+- [Tampilan Table View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-table-view)
+- [Tampilan Kalender View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-kalender-view)
+- [Tampilan Galeri View](https://github.com/AhmadWahyuu/focalboard-ProjectManagement#tampilan-galeri-view)
 
 ## Tampilan Project Kosong
 
@@ -65,27 +65,40 @@ Download Focal board di : [Focal Board Pages](https://www.focalboard.com/downloa
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/membuat%20card.png)
 
 > membuat card baru untuk pengingat
+- Terdapat fitur menambhakan icon pada tugas kita untuk mempermudah dan mempercantik tampilan.
+- Mengisi nama tugas.
+- Menambah Properti, seperti Status, Tanggal, dan lain-lain untuk mendeskripsikan tugas baru yang kita buat.
+- Terdapat kolom komentar untuk memberikan komentar terhadap tugas baru kepada tim kita.
+- Kolom Deskripsi, untuk mendeskripsikan tugas kita secara lengkap.
 
 ## Add Board View Baru
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/add%20view.png)
 
 > menambahkan board view baru
+- Terdapat Fitur copy board yang sedang kita lihat.
+- Duplikat board view.
+- Delete Biard.
+- Menambahkan Board View, seperti table view, kalender view, dan galeri view.
 
 ## Tampilan Table View
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/view_table.png)
 
 > view table
+- Terdapat tampilan status tugas dan tanggal tugas.
+- Fitur Menambahkan table baru.
 
 ## Tampilan Kalender View
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/view_calender.png)
 
 > view calender
+- Terdapat tampilan tanggal perusahaan selama satu bulan atau dirubah dalam minggu.
 
 ## Tampilan Galeri View
 
 ![](https://github.com/AhmadWahyuu/focalboard-ProjectManagement/blob/21ae67b8657570e402e3c58b6f427e21cdfa11ec/img/galery_view.png)
 
 > view galery
+- Terdapat tampilan deskripsi lengkap tugas.
